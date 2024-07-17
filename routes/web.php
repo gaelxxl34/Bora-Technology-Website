@@ -17,3 +17,7 @@ Route::get('/team', function () {
 Route::get('/community-service', function () {
     return view('community-service');
 });
+
+Route::get('/services', function () {
+    return view('services');
+});
