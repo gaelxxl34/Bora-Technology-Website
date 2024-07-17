@@ -4,6 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta property="og:title" content="Bora Technology">
+    <meta property="og:description" content="Transforming education through immersive VR labs for schools and institutions.">
+    <meta property="og:image" content="images/logo.jpeg">
+    <meta property="og:url" content="https://boratechnology.org">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Bora Technology">
+    <meta name="twitter:card" content="images/lab.jpg">
+    <meta name="twitter:title" content="Bora Technology">
+    <meta name="twitter:description" content="Transforming education through immersive VR labs for schools and institutions.">
+    <meta name="twitter:image" content="images/logo.jpeg">
+
         <!-- Favicon -->
     <link href="images/logo.jpeg" rel="icon">
     <link rel="stylesheet" href="css/welcome.css">
