@@ -1,0 +1,45 @@
+    * {
+
+        font-family: "Times New Roman", Times, serif;
+    }
+
+          .social-icon {
+                    color: rgb(43, 178, 250);
+                    padding-right: 16px;
+                    /* Add space between icons */
+                }
+        
+                .social-icon:hover {
+                    color: #1da1f2;
+                    /* Twitter */
+                }
+        
+                .facebook-icon:hover {
+                    color: #3b5998;
+                }
+        
+                .instagram-icon:hover {
+                    color: #e1306c;
+                }
+        
+                .twitter-icon:hover {
+                    color: #1da1f2;
+                }      
+                .fixed-height {
+                    height: 400px;
+                    object-fit: contain;
+                    /* Ensure all images have the same height */
+                }
+        
+                .flex-container {
+                    display: flex;
+                    align-items: stretch;
+                    /* Ensure all items are stretched to the same height */
+                }
+        
+                .content {
+                    flex: 1;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: space-between;
+                }
