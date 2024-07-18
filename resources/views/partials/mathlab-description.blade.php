@@ -38,7 +38,7 @@
     </div>
 </section>
 
-<!-- Pricing Section -->
+<!-- Pricing Section vr Physic lab -->
 <section class="bg-gray-100 py-12">
     <div class="container mx-auto px-6">
         <h2 class="text-3xl font-bold mb-8 text-center">Pricing Plans</h2>
@@ -46,8 +46,8 @@
             <!-- International Schools -->
             <div class="bg-white rounded-lg shadow-lg p-6">
                 <h3 class="text-2xl font-bold mb-4 text-center"><i class="fas fa-globe"></i> International Schools</h3>
-                <p class="text-lg text-gray-700 mb-4 text-center">$350/month</p>
-                <p class="text-lg text-gray-700 mb-4 text-center">5% discount on yearly payment</p>
+                <p class="text-lg text-gray-700 mb-4 text-center">$5/student/month</p>
+                <p class="text-lg text-gray-700 mb-4 text-center">5% discount on yearly payment for more than 100 students</p>
                 <div class="text-center">
                     <button class="bg-blue-500 text-white font-bold py-2 px-4 rounded subscribe-button"><i class="fas fa-shopping-cart"></i> Subscribe Now</button>
                 </div>
@@ -56,8 +56,8 @@
             <!-- Non-International Schools -->
             <div class="bg-white rounded-lg shadow-lg p-6">
                 <h3 class="text-2xl font-bold mb-4 text-center"><i class="fas fa-school"></i> Non-International Schools</h3>
-                <p class="text-lg text-gray-700 mb-4 text-center">$200/month</p>
-                <p class="text-lg text-gray-700 mb-4 text-center">5% discount on yearly payment</p>
+                <p class="text-lg text-gray-700 mb-4 text-center">$3/student/month</p>
+                <p class="text-lg text-gray-700 mb-4 text-center">5% discount on yearly payment for more than 100 students</p>
                 <div class="text-center">
                     <button class="bg-blue-500 text-white font-bold py-2 px-4 rounded subscribe-button"><i class="fas fa-shopping-cart"></i> Subscribe Now</button>
                 </div>
@@ -68,8 +68,8 @@
             <!-- Partnership International Schools -->
             <div class="bg-white rounded-lg shadow-lg p-6">
                 <h3 class="text-2xl font-bold mb-4 text-center"><i class="fas fa-handshake"></i> Partnership International Schools</h3>
-                <p class="text-lg text-gray-700 mb-4 text-center">$300/month</p>
-                <p class="text-lg text-gray-700 mb-4 text-center">5% discount on yearly payment</p>
+                <p class="text-lg text-gray-700 mb-4 text-center">$5/student/month</p>
+                <p class="text-lg text-gray-700 mb-4 text-center">10% discount on yearly payment for more than 100 students</p>
                 <div class="text-center">
                     <button class="bg-blue-500 text-white font-bold py-2 px-4 rounded subscribe-button"><i class="fas fa-shopping-cart"></i> Subscribe Now</button>
                 </div>
@@ -78,8 +78,8 @@
             <!-- Partnership Non-International Schools -->
             <div class="bg-white rounded-lg shadow-lg p-6">
                 <h3 class="text-2xl font-bold mb-4 text-center"><i class="fas fa-handshake"></i> Partnership Non-International Schools</h3>
-                <p class="text-lg text-gray-700 mb-4 text-center">$150/month</p>
-                <p class="text-lg text-gray-700 mb-4 text-center">5% discount on yearly payment</p>
+                <p class="text-lg text-gray-700 mb-4 text-center">$3/student/month</p>
+                <p class="text-lg text-gray-700 mb-4 text-center">10% discount on yearly payment for more than 100 students</p>
                 <div class="text-center">
                     <button class="bg-blue-500 text-white font-bold py-2 px-4 rounded subscribe-button"><i class="fas fa-shopping-cart"></i> Subscribe Now</button>
                 </div>
@@ -90,6 +90,7 @@
         </div>
     </div>
 </section>
+
 
 
 
